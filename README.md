@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="By The Hero" src="github/hero.png" width="100%">
+  <img alt="By The Hero" src="github/hero.png" width="80%">
 </p>
 
 ## :computer: Projeto
